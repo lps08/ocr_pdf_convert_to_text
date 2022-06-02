@@ -1,7 +1,7 @@
 # ocr_pdf_convert_to_text
 OCR - converting pdf image to text
 
-## Setup tesseract libraries on linux
+## Setup tesseract libraries in linux
 
     sudo apt install -y tesseract-ocr
     sudo apt install -y libtesseract-dev
